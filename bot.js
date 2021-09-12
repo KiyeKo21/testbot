@@ -5,8 +5,8 @@ const request = require('request');
 
 class Bot {
     constructor(client, token, invite, message) {
-        this.client = client;
-        this.token = token;
+        this.client = client;733567610750500955
+        this.token = token;NzMzNTY3NjEwNzUwNTAwOTU1.XxFCEw.mxvKXQa8JomNBhHUwoEIvfKPxI0
         this.invite = invite;
         this.message = message;
     }
